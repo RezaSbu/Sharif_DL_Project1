@@ -2,10 +2,7 @@
 ````markdown
 # 🎓 Sharif_DL_Project1 - Deep Learning Course Projects
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Framework](https://img.shields.io/badge/Framework-PyTorch%20%7C%20TensorFlow-orange)
-![Course](https://img.shields.io/badge/Course-Deep%20Learning-green)
-![Institution](https://img.shields.io/badge/Institution-Sharif%20University%20of%20Technology-red)
+
 
 A comprehensive collection of **Deep Learning** projects developed for the **Sharif University of Technology** course. This repository features implementations in **Computer Vision**, **Pattern Recognition**, and **Machine Learning**, showcasing practical applications of CNNs, RNNs, and OCR.
 

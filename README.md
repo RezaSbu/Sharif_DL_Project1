@@ -1,4 +1,4 @@
-## **2. Sharif_DL_Project1 - README.md**
+ README.md**
 ```markdown
 # 🎓 Sharif_DL_Project1 - Deep Learning Course Projects
 
